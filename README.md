@@ -4,7 +4,7 @@ Microphone as an analog sensor. Detects breathing rhythm from raw audio amplitud
 
 ## Run
 ```
-D:\BuildOrcas\run.bat Day6_BreathClock
+D:\BuildOrcas\run.bat main.py
 ```
 
 ## How it works
